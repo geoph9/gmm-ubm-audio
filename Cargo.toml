@@ -1,0 +1,12 @@
+[package]
+name = "gmmubm"
+version = "0.1.0"
+authors = ["geoph9 <geoph9@protonmail.com>"]
+edition = "2018"
+
+
+[dependencies]
+ndarray = "0.14.0"
+ndarray-linalg = "0.13.0"
+#ndarray-stats = "0.4.0"
+ndarray-npy = "0.7.1"
