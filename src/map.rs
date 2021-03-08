@@ -1,0 +1,1 @@
+// Performs MAP adaptation on the given UBM model.
