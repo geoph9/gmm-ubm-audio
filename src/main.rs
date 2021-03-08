@@ -1,6 +1,7 @@
-mod map;
+pub mod map;
 mod gmm;
-mod read;
+pub mod read;
+pub mod mixtures;
 
 fn main() {
 }
